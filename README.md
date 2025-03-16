@@ -4,18 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golubhattuk01&label=Profile%20views&color=0e75b6&style=flat" alt="golubhattuk01" /> </p>
 
+## About Me 🏆
 - 🔭 Currently working on **an E-commerce platform with Next.js, Prisma, Clerk & Razorpay**
-- 🌱 Exploring **AWS, System Design & WhatsApp Protocols**
+- 🌱 Exploring **AWS, System Design & Protocols**
 - 💡 Enthusiastic about **scalable architectures & automation**
 - ✈️ Dreaming of learning **Paragliding**
+- 💻 Passionate about **Web Development, DevOps & Cloud Technologies**
+- 🚀 Actively contributing to **open-source projects & hackathons**
+- 📚 Love solving **DSA problems & System Design challenges**
+- 🤝 Always open to **collaborating on exciting tech projects**
 - 📫 Reach me at **gbhatt570@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/golubhattuk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="golubhattuk01" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/golubhattuk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="golubhattuk01" height="30" width="40" /></a>
-<a href="https://fb.com/golubhattuk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="golubhattuk01" height="30" width="40" /></a>
-<a href="https://instagram.com/golubhattuk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="golubhattuk01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/golubhattuk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="golubhattuk01" height="30" width="40" /></a>
 </p>
 
@@ -34,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golubhattuk01&show_icons=true&locale=en" alt="golubhattuk01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golubhattuk01&" alt="golubhattuk01" /></p>
+
