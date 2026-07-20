@@ -1,21 +1,11 @@
 <h1 align="center">Hey 👋, I'm Gaurav Bhatt</h1>
-<h3 align="center">Full Stack Developer | Lifelong Learner | From the Hills of Uttarakhand 🇮🇳</h3>
+<h3 align="center">Engineer | Lifelong Learner | From the Hills of Uttarakhand 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gauravbhatt9854&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbhatt9854" /> 
 </p>
-
-## 👨‍💻 About Me
-- 🚀 Full Stack Developer passionate about **building fast, secure & user-centric web applications**
-- 💡 Love exploring **new frameworks, cloud tools & scalable system design**
-- 🌱 Currently diving deeper into **DevOps, AWS, and modern backend patterns**
-- 🧠 Enjoy solving **DSA problems** and exploring how **systems work under the hood**
-- 💬 I believe in **learning by building** — from small ideas to production-grade projects
-- 🤝 Open to **collaboration & open-source contributions**
-- 🏔️ Outside tech, I enjoy **traveling the mountains & discovering new experiences**
-- 📫 Reach me at **gbhatt570@gmail.com**
 
 ---
 
